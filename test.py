@@ -21,3 +21,20 @@ reservoir_volume -= 2.5e5
 
 # print the new value of the reservoir_volume variable
 print(reservoir_volume)
+
+# Example 2 
+carrots = 24
+rabbits = 8
+crs_per_rab = carrots/rabbits
+rabbits = 12
+
+print(crs_per_rab)
+
+# Intergers and float
+# Strings
+coconut_count = "34"
+mango_count = "15"
+tropical_fruit_count = coconut_count + mango_count
+print(tropical_fruit_count)
+
+#print(len(835))
